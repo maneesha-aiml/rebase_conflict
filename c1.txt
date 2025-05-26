@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+hello
+this is
+AIML-A
+BEC
+=======
+hello
+this is
+AIML-A
+BEC
+>>>>>>> fb
